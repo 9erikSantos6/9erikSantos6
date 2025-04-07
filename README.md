@@ -1,11 +1,13 @@
 <h1 aling="center">👋🏻 Olá, sou Erik!</h1>
 
-<h3>Desenvolvedor Backend do Brasil 🇧🇷</h3>
+<h3>Desenvolvedor Backend do Brasil! 🇧🇷</h3>
 
-Sou apaixonado por tecnologia, estudante de tecnologias voltadas para **Desenvolvimento Backend** e **Cyber Security**. 👾🎲
-Sou movido pela vontade constante de aprender, sempre buscando aprimorar minhas habilidades e criar soluções eficientes! 💽🖥️
+<p>
+Sou apaixonado por tecnologia, estudante de tecnologias voltadas para <strong>Desenvolvimento Backend</strong> e <strong>Cyber Security</strong>. 👾🎲 <br>
+Sou movido pela vontade constante de aprender, sempre buscando aprimorar minhas habilidades e criar soluções eficientes! 💽🖥️ <br>
+Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
+</p>
 
-Além do código, sou um amante de **música**! 🎵🎶🎧
 
 ---
 
