@@ -85,7 +85,7 @@ Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
   <a href="mailto:9xerikx6@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/erik-santosx6-45875016a" target="_blank">
+  <a href="www.linkedin.com/in/erik-santosx6" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
 </div>
