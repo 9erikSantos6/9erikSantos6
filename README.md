@@ -1,5 +1,6 @@
-# 👋 Olá, sou Erik!
-### Desenvolvedor Backend do Brasil 🇧🇷
+<h1 aling="center">👋🏻 Olá, sou Erik!</h1>
+
+<h3>Desenvolvedor Backend do Brasil 🇧🇷</h3>
 
 Sou apaixonado por tecnologia, estudante de tecnologias voltadas para **Desenvolvimento Backend** e **Cyber Security**.  
 Sou movido pela vontade constante de aprender, sempre buscando aprimorar minhas habilidades e criar soluções eficientes! 💽🖥️
@@ -7,6 +8,8 @@ Sou movido pela vontade constante de aprender, sempre buscando aprimorar minhas 
 Além do código, sou um amante de **música**! 🎵🎶🎧
 
 ---
+
+<p><strong>🛠️ Algumas Tecnologias: </strong></p>
 <div align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -49,10 +52,18 @@ Além do código, sou um amante de **música**! 🎵🎶🎧
   </a>
 </div>
 
----
+<details>
+  <summary><strong>🎓 Formações</strong></summary>
+  <ul>
+    <li>💻 Técnico em Informática - IFPI</li>
+    <li>📚 Cursando Análise e Desenvolvimento de Sistemas - IFPI</li>
+  </ul>
+</details>
+
 
 <details>
-  <summary>📊 Estatísticas</summary>
+  <summary><strong>📊 Estatísticas</strong></summary>
+  <br>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=9eriksantos6&show_icons=true&locale=pt-br&theme=tokyonight" alt="Erik GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=9eriksantos6&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="Erik Top Langs" />
@@ -60,15 +71,6 @@ Além do código, sou um amante de **música**! 🎵🎶🎧
   </div>
 </details>
 
----
-
-<details>
-  <summary>🎓 Formações</summary>
-  <ul>
-    <li>💻 Técnico em Informática - IFPI</li>
-    <li>📚 Cursando Análise e Desenvolvimento de Sistemas - IFPI</li>
-  </ul>
-</details>
 
 ---
 
