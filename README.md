@@ -2,7 +2,7 @@
 
 <h3>Desenvolvedor Backend do Brasil 🇧🇷</h3>
 
-Sou apaixonado por tecnologia, estudante de tecnologias voltadas para **Desenvolvimento Backend** e **Cyber Security**.  
+Sou apaixonado por tecnologia, estudante de tecnologias voltadas para **Desenvolvimento Backend** e **Cyber Security**. 👾🎲
 Sou movido pela vontade constante de aprender, sempre buscando aprimorar minhas habilidades e criar soluções eficientes! 💽🖥️
 
 Além do código, sou um amante de **música**! 🎵🎶🎧
