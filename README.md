@@ -65,8 +65,8 @@ Além do código, sou um amante de **música**! 🎵🎶🎧
   <summary><strong>📊 Estatísticas</strong></summary>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=9eriksantos6&show_icons=true&locale=pt-br&theme=tokyonight" alt="Erik GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=9eriksantos6&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="Erik Top Langs" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=9eriksantos6&show_icons=true&locale=pt-br&theme=tokyonight" alt="Erik GitHub Stats" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=9eriksantos6&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="Erik Top Langs" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=9eriksantos6&theme=tokyonight" alt="Erik Streak Stats" />
   </div>
 </details>
