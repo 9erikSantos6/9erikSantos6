@@ -1,4 +1,4 @@
-<h1 aling="center">👋🏻 Olá, sou Erik!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caskadya+Code&size=22&pause=1000&color=D9EDF7&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+sou+Erik!" alt="Typing SVG" /></a>
 
 <h3>Desenvolvedor Backend do Brasil! 🇧🇷</h3>
 
@@ -11,7 +11,7 @@ Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
 
 ---
 
-<p><strong>🛠️ Algumas Tecnologias: </strong></p>
+<p><strong>🛠️ Minha Stack </strong></p>
 <div align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -69,7 +69,7 @@ Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
   <div align="center">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=9eriksantos6&show_icons=true&locale=pt-br&theme=tokyonight" alt="Erik GitHub Stats" />
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=9eriksantos6&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="Erik Top Langs" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=9eriksantos6&theme=tokyonight" alt="Erik Streak Stats" />
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=9eriksantos6&theme=tokyonight" alt="Erik Streak Stats" /> -->
   </div>
 </details>
 
