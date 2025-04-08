@@ -11,13 +11,13 @@ Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
 <h3>📬 Entre em contato comigo: </h3>
 
 <div align="center"> 
-  <a href="https://instagram.com/8e.r.i.k8" target="_blank">
+  <a href="https://instagram.com/8e.r.i.k8" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:9xerikx6@gmail.com">
+  <a href="mailto:9xerikx6@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/erik-santosx6" target="_blank">
+  <a href="https://www.linkedin.com/in/erik-santosx6" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
 </div>
