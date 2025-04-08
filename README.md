@@ -8,6 +8,19 @@ Sou movido pela vontade constante de aprender, sempre buscando aprimorar minhas 
 Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
 </p>
 
+<h3>📬 Entre em contato comigo: </h3>
+
+<div align="center"> 
+  <a href="https://instagram.com/8e.r.i.k8" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:9xerikx6@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/erik-santosx6" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+</div>
 
 ---
 
@@ -72,23 +85,6 @@ Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=9eriksantos6&theme=tokyonight" alt="Erik Streak Stats" /> -->
   </div>
 </details>
-
-
----
-
-### 📬 Entre em contato comigo:
-
-<div align="center"> 
-  <a href="https://instagram.com/8e.r.i.k8" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:9xerikx6@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="www.linkedin.com/in/erik-santosx6" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-</div>
 
 ---
 
