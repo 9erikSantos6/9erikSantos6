@@ -20,12 +20,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 1. GERAÇÃO DAS ESTATÍSTICAS (Salva na pasta dist/)
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -33,10 +32,10 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          theme: tokyonight
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=tokyonight
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
 
       # 2. GERAÇÃO DA COBRA (Salva na pasta dist/)
       - name: generate github-contribution-grid-snake.svg
@@ -46,6 +45,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
 
       # 3. PUSH DE TUDO PARA A BRANCH 'output'
       - name: push assets to the output branch
