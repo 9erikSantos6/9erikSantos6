@@ -81,7 +81,7 @@ Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
   <br>
   <div align="center">
     <img height="180px" src="https://raw.githubusercontent.com/9eriksantos6/9eriksantos6/output/stats.svg" alt="Erik GitHub Stats" />
-    <img height="180px" src="https://raw.githubusercontent.com/9eriksantos6/9eriksantos6/output/top-langs.svg" alt="Erik Top Langs" />
+    <img height="200px" src="https://raw.githubusercontent.com/9eriksantos6/9eriksantos6/output/top-langs.svg" alt="Erik Top Langs" />
   </div>
 </details>
 
