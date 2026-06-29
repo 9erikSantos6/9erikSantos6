@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caskadya+Code&size=22&pause=1000&color=D9EDF7&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+sou+Erik!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=AdwaitaMono&duration=6000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=%24+echo+%22Ol%C3%A1%2C+sou+Erik!+%F0%9F%91%8B%F0%9F%8F%BB%22" alt="Typing SVG" /></a>
 
 <h3>Engenheiro Backend! 🇧🇷</h3>
 
