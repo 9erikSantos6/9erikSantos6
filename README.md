@@ -3,12 +3,15 @@
 <h3>Engenheiro Backend! 🇧🇷</h3>
 
 <p>
-Sou apaixonado por tecnologia, estudante de tecnologias voltadas para <strong>Desenvolvimento Backend</strong> e <strong>Cyber Security</strong>. 👾🎲 <br>
-Sou movido pela vontade constante de aprender, sempre buscando aprimorar minhas habilidades e criar soluções eficientes! 💽🖥️ <br>
-Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
+Engenheiro Backend com stack Node.js/TypeScript, PostgreSQL e Docker Swarm.
+Opero infraestrutura self-hosted em produção, do desenvolvimento de APIs
+RESTful ao hardening de servidores Linux. Pragmático por necessidade,
+criterioso por escolha.
+
+Além do código, sou um amante de música. 🎧
 </p>
 
-<h3>📬 Entre em contato comigo: </h3>
+<h3>📬 Entre em contato: </h3>
 
 <div align="center"> 
   <a href="https://instagram.com/8e.r.i.k8" target="_blank" rel="noopener noreferrer">
@@ -26,20 +29,8 @@ Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
 
 <p><strong>🛠️ Minha Stack </strong></p>
 <div align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="35" height="35"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35"/>
@@ -47,23 +38,21 @@ Além do código, sou um amante de <strong>música</strong>! 🎵🎶🎧
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
   </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="35" height="35"/>
+  <a href="https://www.redis.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="35" height="35"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="35" height="35"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="35" height="35"/>
+  </a>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="35" height="35"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" width="35" height="35"/>
+  <a href="https://rockylinux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" alt="Rocky Linux" width="35" height="35"/>
   </a>
 </div>
 
